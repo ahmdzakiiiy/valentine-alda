@@ -29,8 +29,10 @@ const App = () => {
     const rejectionTexts = [
       "Are you sure?",
       "Maybe try again?",
-      "Think again!",
-      "Loser :(",
+      "Pikir lagiii",
+      "Yang beneerrr :(",
+      "PLEASEEE :(",
+      "PWIIISSS :("
     ];
     // Randomly select a rejection message
     let randomIndex;
